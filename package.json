@@ -1,0 +1,13 @@
+{
+    "name": "sit737-task5.2d",
+    "version": "1.0.0",
+    "description": "Node.js app for SIT737 Task 5.2D with Docker and GCP Container Registry",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.4"
+    }
+  }
+  
